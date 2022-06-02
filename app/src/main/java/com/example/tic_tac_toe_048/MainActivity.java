@@ -56,7 +56,7 @@ public void reset(View view){
         gameState[i]=-1;
     }
 }
-
+// The oneCreate method
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
