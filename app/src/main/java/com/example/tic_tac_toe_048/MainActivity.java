@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     }
+//     The code for the reset button 
 public void reset(View view){
     GridLayout gridLayout=findViewById(R.id.gridLayout);
     int total_image=gridLayout.getChildCount();
